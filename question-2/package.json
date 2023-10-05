@@ -1,0 +1,12 @@
+{
+  "name": "question-2",
+  "version": "1.0.0",
+  "description": "Question 2 of Lab Test 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Labtest1","comp3123","question 2"],
+  "author": "Raul England Pelenio - 101367043",
+  "license": "ISC"
+}
